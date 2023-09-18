@@ -9,9 +9,8 @@ function CuidadoConElConsolelog(nombre) {
 
 function otraFuncion () {
     return (
-        "El nombre retornado por la funcion "CuidadoConElConsolelog" 
-        es:" + CuidadoConElConsolelog("Camilo")
-    );
+        "El nombre retornado por la funcion CuidadoConElConsolelog es:" + CuidadoConElConsolelog("Camilo")
+    )
 }
 
 function CuidadoConElConsolelog (nombre) {
