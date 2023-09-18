@@ -18,6 +18,5 @@ function devuelvoUsuario() {
     return cb(comida);
    }
   var fraseFinal = hablar ("Pizza", devuelveFrase){
-    
-
+    return fraseFinal;
   }
